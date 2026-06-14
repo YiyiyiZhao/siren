@@ -1,4 +1,5 @@
 Welcome to the official repository for **Siren**, a project aimed at understanding and mitigating harmful behaviors in large language models (LLMs). 
+This work was published at [ACSAC 2025.](https://www.computer.org/csdl/proceedings/acsac/2025/2emRaCI3iAo)
 This repository contains the resources for reproducing the experiments described in our work.
 
 ## Repository Structure
