@@ -125,3 +125,23 @@ After you have the interaction records, you can calculate ASR with
 ```bash
 python cal_asr.py
 ```
+
+### Cite: 
+```
+@inproceedings{DBLP:conf/acsac/ZhaoZ25,
+  author       = {Yi Zhao and
+                  Youzhi Zhang},
+  title        = {Siren: {A} Learning-Based Multi-Turn Attack Framework for Simulating
+                  Real-World Human Jailbreak Behaviors},
+  booktitle    = {{IEEE} Annual Computer Security Applications Conference, {ACSAC} 2025,
+                  Honolulu, HI, USA, December 8-12, 2025},
+  pages        = {1209--1220},
+  publisher    = {{IEEE}},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/ACSAC67867.2025.00095},
+  doi          = {10.1109/ACSAC67867.2025.00095},
+  timestamp    = {Thu, 12 Mar 2026 16:35:22 +0100},
+  biburl       = {https://dblp.org/rec/conf/acsac/ZhaoZ25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
